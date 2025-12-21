@@ -46,6 +46,9 @@ In this part AI agents play together to gain experience. In the end, the AI agen
 ### ScreenShots
 <img width="1065" height="1016" alt="image" src="https://github.com/user-attachments/assets/e7ecb67f-9950-4bd6-9737-d138ad0098c7" />
 
+<img width="1057" height="1019" alt="image" src="https://github.com/user-attachments/assets/48e4c352-58e0-4750-81c6-72a5feb071d8" />
+
+
 
 
 
